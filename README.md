@@ -1,3 +1,15 @@
+# Udacity React Nanodegree Project 3
+A cross platform mobile Flashcard App
+
+Allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
+
+## Why this project?
+
+From Udacity Project Details:
+
+"This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input."
+
+
 
 
 ## How to Load the App
@@ -20,6 +32,24 @@ If you have difficulty connecting to the app you can use the [Expo XDE](https://
 ## Platform
 App was tested on an android device and ios simulator
 
+
+
+## Screenshots
+
+**Home Screen**
+![Home Screen](screenshots/home_screen.png)
+
+**Add deck screen**
+![Add Deck Screeb](screenshots/add_deck.png)
+
+**Deck Detail Screen**
+![Deck Detail Screen](screenshots/deck_detail.png)
+
+**Add Card Screen**
+![Add Card Screen](screenshots/add_card.png)
+
+**Active Quiz Screen**
+![Active Quiz Screen](screenshots/active_quiz.png)
 
 
 
